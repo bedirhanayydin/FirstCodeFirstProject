@@ -1,0 +1,21 @@
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.frmanaSayfa.resources
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Properties.Resources.resources
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Formlar.frmMarka.resources
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Formlar.frmSeri.resources
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Formlar.frmPersonel.resources
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Formlar.frmPersonell.resources
+C:\Users\fener\Documents\Visual Studio 2015\Projects\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Formlar.frmGiris.resources
+C:\Users\Lenovo\Documents\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Lenovo\Documents\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Lenovo\Documents\184410046_BEDİRHAN_AYDIN_CodeFirst\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
